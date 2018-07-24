@@ -2,7 +2,7 @@
 
 $(document).ready(function () {
     //get random number to match
-    var computerNumber = Math.floor(Math.random() * 111 + 19);
+    var computerNumber = Math.floor(Math.random() * 101 + 19);
     //putting random number to html
     $("#computerNumber").text(computerNumber);
 
