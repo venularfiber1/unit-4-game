@@ -1,0 +1,18 @@
+html{
+    background-image: url("http://getwallpapers.com/wallpaper/full/9/d/a/287047.jpg");
+}
+
+h1, h3, span{
+	font-weight: bold;
+	text-align: center;
+}
+
+body{
+    text-align: center;
+    color: red;
+}
+
+.crystalImage{
+    height: 300px;
+    width: 200px;
+}
