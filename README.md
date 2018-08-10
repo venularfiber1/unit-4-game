@@ -12,5 +12,8 @@
 * The player will lose if their scor goes over the random number.
 
 * The game also resets if the player wins or losses.
+<<<<<<< HEAD
 
 ![App Image](assets/images/Capture.PNG)
+=======
+>>>>>>> cd4cfb3eb332a2e113e14ae90e6ea1462915a599
